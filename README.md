@@ -44,3 +44,9 @@ immagini incorporate. Funziona anche offline.
 ---
 
 Curata da [@ginopizza](https://github.com/ginopizza)
+
+## Licenza
+
+Copyright (c) 2026 [@ginopizza](https://github.com/ginopizza). Tutti i diritti riservati.
+Consultazione libera; riproduzione, modifica e riutilizzo soggetti a consenso scritto.
+Vedi il file [LICENSE](LICENSE).
