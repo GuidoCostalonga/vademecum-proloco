@@ -30,7 +30,7 @@ Completano la guida il calendario dell'anno e la pagina dei contatti e delle fon
 Dati tratti dalle fonti ufficiali: Regione Friuli Venezia Giulia, Consiglio regionale,
 PromoTurismoFVG, Lexview, Normattiva, Agenzia delle entrate, Ministero del lavoro e delle
 politiche sociali, Ministero della cultura, Ministero del turismo, Sport e Salute, UNPLI.
-Ricognizione aggiornata al 19 agosto 2026.
+Ricognizione aggiornata al 9 settembre 2026.
 
 Le informazioni che non è stato possibile riscontrare su fonte primaria sono segnalate nella
 pagina in rosso come «da verificare», con l'indicazione dell'ente presso cui confermarle:
